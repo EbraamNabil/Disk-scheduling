@@ -7,7 +7,7 @@ This project implements disk scheduling algorithms (FCFS, SCAN, and C-SCAN) in C
 This assignment was completed by:
 
 - **Ebraam Nabil**
-- **Ahmed Adel**
+- **Ahmed Adel El-Melegy**
 
 Faculty of Computers and Information, 4th Year  
 Operating System
