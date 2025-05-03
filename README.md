@@ -8,7 +8,7 @@ This assignment was completed by:
 
 - **Ebraam Nabil**
 - **Ahmed Adel El-Melegy**
-- **Ahmed Anwer Mogamed Souror**
+- **Ahmed Anwer Mohamed Souror**
 
 Faculty of Computers and Information, 4th Year  
 Operating System
